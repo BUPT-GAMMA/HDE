@@ -1,6 +1,6 @@
 # HDE
 
-Code for ICDM2021 *Heterogeneous Graph Neural Network with Distance Encoding* and TKDE submission *Distance Information Improves Heterogeneous Graph Neural Networks*
+Code for ICDM2021 *Heterogeneous Graph Neural Network with Distance Encoding* and its TKDE extended version: *Distance Information Improves Heterogeneous Graph Neural Networks*
 
 # Requirement
 

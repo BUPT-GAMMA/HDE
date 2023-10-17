@@ -13,7 +13,7 @@ Code for ICDM2021 *Heterogeneous Graph Neural Network with Distance Encoding* an
 
 To run DHN on link prediction:
 
-``Python main.py``
+``Python icdm.py``
 
 To run experiment with Efficient-HDE:
 
